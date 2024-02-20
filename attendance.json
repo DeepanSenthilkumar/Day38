@@ -1,0 +1,12 @@
+[
+  {
+    "_id": { "$oid": "65d2ebad1b08051f725d01a0" },
+    "student_name": "jaya",
+    "absent_date": "10 sept-2020"
+  },
+  {
+    "_id": { "$oid": "65d2fdd11b08051f725d01a2" },
+    "student_name": "surya",
+    "absent_date": "22 oct-2020"
+  }
+]
