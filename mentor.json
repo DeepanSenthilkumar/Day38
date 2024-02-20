@@ -1,0 +1,17 @@
+[
+  {
+    "_id": { "$oid": "65d2e1f21b08051f725d019d" },
+    "mentor_name": "Anbazhagan",
+    "no_of_mentee": "10"
+  },
+  {
+    "_id": { "$oid": "65d2e4bd1b08051f725d019e" },
+    "mentor_name": "Arivazhagan",
+    "no_of_mentee": "20"
+  },
+  {
+    "_id": { "$oid": "65d2e4e01b08051f725d019f" },
+    "mentor_name": "Jayashree",
+    "no_of_mentee": "18"
+  }
+]
