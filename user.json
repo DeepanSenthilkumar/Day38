@@ -1,0 +1,23 @@
+[
+  {
+    "_id": { "$oid": "65d2caa51b08051f725d0190" },
+    "id": 1,
+    "student_name": "jaya",
+    "placement_eligible": "yes",
+    "company_appeared": "TCS"
+  },
+  {
+    "_id": { "$oid": "65d2df971b08051f725d019b" },
+    "id": 2,
+    "student_name": "vicky",
+    "placement_eligible": "yes",
+    "company_appeared": "ZOHO"
+  },
+  {
+    "_id": { "$oid": "65d2dfe61b08051f725d019c" },
+    "id": 3,
+    "student_name": "surya",
+    "placement_eligible": "NO",
+    "company_appeared": ""
+  }
+]
